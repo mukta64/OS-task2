@@ -1,1 +1,2 @@
+This task helped in understanding the fundamentals of operating system security using Kali Linux. By working with user accounts, file permissions, firewall configuration, and service management, I learned how OS hardening reduces security risks. Implementing best practices such as least privilege, disabling unnecessary services, and keeping the system updated improves overall system security and reduces the attack surface.
 # OS-task2
